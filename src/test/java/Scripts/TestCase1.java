@@ -42,8 +42,7 @@ import POM_pageobjectmodel.TestingPage;
 			
 			t.FacebookWebElement(); // business library of FacebookWebelement in TestingPage
 			
-			
-			
+				
 			
 		}
 	
@@ -52,12 +51,6 @@ import POM_pageobjectmodel.TestingPage;
 	
 		
 
-
-
-
-
-
-//Yet to complete
 	
 	
 		
